@@ -2,15 +2,16 @@
 
 Hey there, welcome to my GitHub profile! 👋
 
-I'm a Computer Science graduate student at SUNY Buffalo, passionate about Machine Learning and Cloud Computing. Currently, I'm deeply interested in learning more about the end-to-end ML lifecycle of model training, deployment, and serving.
+I'm a Computer Science graduate student at SUNY Buffalo, passionate about Machine Learning and Cloud Computing. 
 
-Here you'll find some of my projects and contributions!
+Here you'll find some of my projects and contributions! 
 
 ## About Me
 
 - 🌍 Buffalo, New York
 - 🎓 Masters in Computer Science at SUNY Buffalo
 - 💼 Currently on the lookout for Summer (2025) Internships in the United States!
+- 🌱 Actively learning more about the end-to-end ML lifecycle of model training, deployment, and serving on Kubernetes
 <!--
 
 ## Experience
