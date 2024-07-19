@@ -2,13 +2,16 @@
 
 Hey there, welcome to my GitHub profile! 👋
 
-I'm a Software Developer, passionate about Machine Learning, Security and Cloud Computing. Here you'll find some of my projects and contributions.
+I'm a Computer Science graduate student at SUNY Buffalo, passionate about Machine Learning and Cloud Computing. Currently, I'm deeply interested in learning more about the end-to-end ML lifecycle of model training, deployment, and serving.
+
+Here you'll find some of my projects and contributions!
 
 ## About Me
 
-- 🌍 I'm from Bangalore, India.
-- 🎓 Major in ECE
-- 💼 Software Developer @ IBM
+- 🌍 Buffalo, New York
+- 🎓 Masters in Computer Science at SUNY Buffalo
+- 💼 Currently on the lookout for Summer (2025) Internships in the United States!
+<!--
 
 ## Experience
 
@@ -24,7 +27,7 @@ I'm a Software Developer, passionate about Machine Learning, Security and Cloud 
 ### DevOps and Tools
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Travis CI](https://img.shields.io/badge/Travis_CI-3EAAAF?style=flat&logo=travisci&logoColor=white)
-
+-->
 
 ## Contact
 
