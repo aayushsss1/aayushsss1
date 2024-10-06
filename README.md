@@ -11,7 +11,7 @@ Here you'll find some of my projects and contributions!
 - 🌍 Buffalo, New York
 - 🎓 MS Computer Science at UB
 - 💼 Currently on the lookout for Summer (2025) Internships in the United States!
-- 🌱 Actively learning the full ML lifecycle, from training to deploying and serving robust models
+- 🌱 Actively learning the full end-to-end ML lifecycle, from training to deploying and serving.
 <!--
 
 ## Experience
