@@ -1,17 +1,17 @@
 # Aayush Subramaniam
 
-Hey there, welcome to my GitHub profile! 👋
+Hey there! 👋
 
-I'm a Computer Science graduate student at SUNY Buffalo, passionate about Machine Learning and Cloud Computing. 
+I'm a Computer Science graduate student at the University at Buffalo, passionate about Machine Learning and Cloud Computing
 
 Here you'll find some of my projects and contributions! 
 
 ## About Me
 
 - 🌍 Buffalo, New York
-- 🎓 Masters in Computer Science at SUNY Buffalo
+- 🎓 MS Computer Science at UB
 - 💼 Currently on the lookout for Summer (2025) Internships in the United States!
-- 🌱 Actively learning more about the end-to-end ML lifecycle of model training, deployment, and serving on Kubernetes
+- 🌱 Actively learning the full ML lifecycle, from training to deploying and serving robust models
 <!--
 
 ## Experience
@@ -34,6 +34,7 @@ Here you'll find some of my projects and contributions!
 
 - 📧 Email: [aayushsubramaniam@gmail.com](mailto:aayushsubramaniam@gmail.com)
 - 💼 LinkedIn: www.linkedin.com/in/aayushsubramaniam/
+- 🌐 Website: www.aayushsubramaniam.com
 
 Feel free to reach out if you have any questions or just want to connect!
 
