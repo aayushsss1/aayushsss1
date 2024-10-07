@@ -2,7 +2,7 @@
 
 Hey there! 👋
 
-I'm a Computer Science graduate student at the University at Buffalo, passionate MLOps and Distributed Systems.
+I'm a Computer Science graduate student at the University at Buffalo, passionate about MLOps and Distributed Systems.
 
 Here you'll find some of my projects and contributions! 
 
