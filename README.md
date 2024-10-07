@@ -2,7 +2,7 @@
 
 Hey there! 👋
 
-I'm a Computer Science graduate student at the University at Buffalo, passionate about Machine Learning and Cloud Computing
+I'm a Computer Science graduate student at the University at Buffalo, passionate MLOps and Distributed Systems.
 
 Here you'll find some of my projects and contributions! 
 
@@ -11,7 +11,7 @@ Here you'll find some of my projects and contributions!
 - 🌍 Buffalo, New York
 - 🎓 MS Computer Science at UB
 - 💼 Currently on the lookout for Summer (2025) Internships in the United States!
-- 🌱 Actively learning the full end-to-end ML lifecycle, from training to deploying and serving.
+- 🌱 Learning how to get your ML models to production
 <!--
 
 ## Experience
