@@ -10,7 +10,7 @@ Here you'll find some of my projects and contributions!
 
 - 🌍 Buffalo, New York
 - 🎓 MS Computer Science at UB
-- 💼 Currently on the lookout for Summer (2025) Internships in the United States!
+- 💼 Cloud & MLOps Intern at TE
 - 🌱 Learning how to get your ML models to production
 <!--
 
