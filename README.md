@@ -10,7 +10,7 @@ Here you'll find some of my projects and contributions!
 
 - 🌍 Buffalo, New York
 - 🎓 MS Computer Science at UB
-- 💼 Cloud & MLOps Intern at TE
+- 💼 Cloud & MLOps @ TE Connectivity
 - 🌱 Learning how to get your ML models to production
 <!--
 
